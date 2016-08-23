@@ -1,4 +1,4 @@
-# Welcome to wifi-iot-core project documentation page
+# Welcome to wifi-iot-core project
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 
